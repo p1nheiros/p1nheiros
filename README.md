@@ -1,5 +1,7 @@
 
 ### Olá! Eu sou o Lucas Pinheiro 
+[Clique aqui para ir ao GitHub](https://github.com/){:target="_blank"}
+
 
 ### 
 
