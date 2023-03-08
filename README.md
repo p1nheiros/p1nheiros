@@ -44,8 +44,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.fernandes@edu.unifil.br)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p1nheiros/)
 
-<br>
-
 <h3>🤯 Hobbies:</h3>
 
 **Music Channel 🎵**
