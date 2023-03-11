@@ -4,7 +4,7 @@
 - 🎓 &nbsp; Estudando **Engenharia de Software** no <a href="https://unifil.br/">UNIFIL</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **Lógica, Gerenciamento de Projetos, Dev Apps e Programação**.
 
-<h3> 🚀&nbsp;Minhas Skills </h3>
+### 🚀&nbsp;Minhas Skills ###
 
 **Linguagens 👨‍🏫**
 
@@ -36,13 +36,13 @@
 
 <br/>
 
-<h3> 🌎&nbsp;Onde me encontrar: </h3> 
-
+##🌎&nbsp;Onde me encontrar:
+  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-p-5b1585265)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.fernandes@edu.unifil.br)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p1nheiros/)
 
-<h3>🤯 Hobbies:</h3>
+##🤯 Hobbies:
 
 **Music Channel 🎵**
 
