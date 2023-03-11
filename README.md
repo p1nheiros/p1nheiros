@@ -1,4 +1,4 @@
-### 🧑🏻&nbsp;Sobre mim
+# 🧑🏻&nbsp;Sobre mim
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Engenharia de Software** no <a href="https://unifil.br/">UNIFIL</a>.
