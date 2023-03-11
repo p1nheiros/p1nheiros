@@ -11,17 +11,17 @@
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"></code>
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></code>
 
-**Utilidades ⚙️**
+### Utilidades ⚙️
 
   <code><img height="33" src="https://img.utdstc.com/icon/4c9/33c/4c933cb96d4d64170e0c5e0e07e8e6fbc0ad8c2602728b6454f09ac1340e5f64:100"></code>
   <code><img height="32" src="https://img.utdstc.com/icon/986/4df/9864df183e78a4a78e6113daea3de38a87e98700186480022d1b7917ecd7fc34:100"></code>
 
-**DevOps 🦾**
+### DevOps 🦾
 
   <code><img height="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"></code>
   
-**Ferramentas de Desenvolvimento 👨‍💻**
+### Ferramentas de Desenvolvimento 👨‍💻
 
   <code><img height="31" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"></code>
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111656.png"></code>
@@ -42,9 +42,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.fernandes@edu.unifil.br)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p1nheiros/)
 
-### 🤯 Hobbies:
+## 🤯 Hobbies:
 
-**Music Channel 🎵**
+### Music Channel 🎵
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pinheiross)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/3YW8uyBdplS6ZKxTi3Vt6z?si=lZM9XgO9R4uxWoLo_LOVfw&nd=1)
