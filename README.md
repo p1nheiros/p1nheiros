@@ -1,8 +1,8 @@
 # 🧑🏻&nbsp;Sobre mim
 
 > - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Engenharia de Software** no <a href="https://unifil.br/">UNIFIL</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Lógica, Gerenciamento de Projetos, Dev Apps e Programação**.
+> - 🎓 &nbsp; Estudando **Engenharia de Software** no <a href="https://unifil.br/">UNIFIL</a>.
+> - 🌱 &nbsp; Aprendendo mais sobre **Lógica, Gerenciamento de Projetos, Dev Apps e Programação**.
 
 ## 🚀&nbsp;Minhas Skills ###
 
