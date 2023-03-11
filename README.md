@@ -6,7 +6,7 @@
 
 ## 🚀&nbsp;Minhas Skills ###
 
-**Linguagens 👨‍🏫**
+### Linguagens 👨‍🏫
 
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"></code>
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></code>
