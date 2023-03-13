@@ -24,7 +24,6 @@
 ### Ferramentas de Desenvolvimento 👨‍💻
 
   <code><img height="31" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"></code>
-  <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111656.png"></code>
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"></code>
   <code><img height="33" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2019/12/visualg.png"></code>
 
