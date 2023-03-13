@@ -13,6 +13,7 @@
 
 ### Utilidades ⚙️
 
+  <code><img height="33" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2019/12/visualg.png"></code>
   <code><img height="33" src="https://img.utdstc.com/icon/4c9/33c/4c933cb96d4d64170e0c5e0e07e8e6fbc0ad8c2602728b6454f09ac1340e5f64:100"></code>
   <code><img height="32" src="https://img.utdstc.com/icon/986/4df/9864df183e78a4a78e6113daea3de38a87e98700186480022d1b7917ecd7fc34:100"></code>
 
@@ -25,7 +26,6 @@
 
   <code><img height="31" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"></code>
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"></code>
-  <code><img height="33" src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_60,h_60/https://dashboard.snapcraft.io/site_media/appmedia/2019/12/visualg.png"></code>
 
 <br/>
 
