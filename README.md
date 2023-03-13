@@ -8,6 +8,7 @@
 
 ### Linguagens 👨‍🏫
 
+  <a href="https://developer.mozilla.org/en-US /docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt ="javascript" largura="40" altura="40"/> </a>
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"></code>
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></code>
 
