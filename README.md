@@ -50,6 +50,8 @@
 
 # 🎵 Music Channel
 
+<a href="https://youtube.com/@peterthehan"><img alt="YouTube" title="YouTube" height="48" width="48" src="assets/youtube.svg"></a>
+
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pinheiross)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/3YW8uyBdplS6ZKxTi3Vt6z?si=lZM9XgO9R4uxWoLo_LOVfw&nd=1)
 [![Deezer](https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white)](https://deezer.page.link/KsatPt13niZwDTJf7)
