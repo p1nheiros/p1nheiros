@@ -46,6 +46,14 @@
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=p1nheiros&theme=dark&hide_border=true" />
 </details>
+
+<details>	
+  <summary><b>🏆 Trophies</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=p1nheiros'/>
+</details>
+
 <br/>
 
 # 🎵 Music Channel
