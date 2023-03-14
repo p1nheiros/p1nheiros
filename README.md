@@ -51,7 +51,7 @@
   <summary><b>🏆 Trophies</b></summary>
 
   <br />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p1nheiros&theme=discord&hide_border=true" alt="p1nheiros" /></a> 
+  ![](https://github-profile-trophy.vercel.app/?username=junior-slv&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 </details>
 
 <br/>
