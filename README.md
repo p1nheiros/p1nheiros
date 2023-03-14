@@ -54,4 +54,6 @@
 
 <br>
 
+<p align="center">
 <a href="https://github.com/terrytangyuan"><img src="imgs/github.svg" alt="GitHub"></a>
+  </p>
