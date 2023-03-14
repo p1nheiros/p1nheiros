@@ -59,5 +59,6 @@
 
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=p1nheiros)](https://open.spotify.com/artist/3YW8uyBdplS6ZKxTi3Vt6z?si=lZM9XgO9R4uxWoLo_LOVfw&nd=1)
 
+[![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yi3cq4o99ku1i8hngzuhzjucp&unique={true|1|on|yes})](https://open.spotify.com/artist/3YW8uyBdplS6ZKxTi3Vt6z?si=lZM9XgO9R4uxWoLo_LOVfw&nd=1)
 ---
 [![](https://visitcount.itsvg.in/api?id=junior-slv&icon=1&color=8)](https://visitcount.itsvg.in)
