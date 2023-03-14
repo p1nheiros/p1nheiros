@@ -51,3 +51,7 @@
 
 [![AppleMusic](https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white)](https://music.apple.com/fi/artist/pinheiro%24/1624647277)
 [![YouTubeMusic](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/channel/UCXc1UIn2awhQSIB0xIDeu-g)
+
+<br>
+
+<a href="https://github.com/terrytangyuan"><img src="imgs/github.svg" alt="GitHub"></a>
