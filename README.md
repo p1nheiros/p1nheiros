@@ -1,3 +1,5 @@
+<p align="center">
+  
 # 🧑🏻&nbsp;Sobre mim
 
 > - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
@@ -54,6 +56,4 @@
 
 <br>
 
-<p align="center">
-<a href="https://github.com/terrytangyuan"><img src="imgs/github.svg" alt="GitHub"></a>
-  </p>
+</p>
