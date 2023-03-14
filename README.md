@@ -57,8 +57,6 @@
 [![AppleMusic](https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white)](https://music.apple.com/fi/artist/pinheiro%24/1624647277)
 [![YouTubeMusic](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/channel/UCXc1UIn2awhQSIB0xIDeu-g)<br>
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=p1nheiros)](https://open.spotify.com/artist/3YW8uyBdplS6ZKxTi3Vt6z?si=lZM9XgO9R4uxWoLo_LOVfw&nd=1)
-
-[![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yi3cq4o99ku1i8hngzuhzjucp&unique={true|1|on|yes})](https://open.spotify.com/artist/3YW8uyBdplS6ZKxTi3Vt6z?si=lZM9XgO9R4uxWoLo_LOVfw&nd=1)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=yi3cq4o99ku1i8hngzuhzjucp&unique={true|1|on|yes})](https://open.spotify.com/artist/3YW8uyBdplS6ZKxTi3Vt6z?si=lZM9XgO9R4uxWoLo_LOVfw&nd=1)
 ---
 [![](https://visitcount.itsvg.in/api?id=junior-slv&icon=1&color=8)](https://visitcount.itsvg.in)
