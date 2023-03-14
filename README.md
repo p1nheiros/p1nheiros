@@ -9,7 +9,11 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-p-5b1585265)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.fernandes@edu.unifil.br)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p1nheiros/)
-
+#### Dark Theme
+```
+/api?theme=dark
+```
+![Preview](https://itstommi.vercel.app/api?theme=dark)
 
 # 💻 Tech Stack
 
