@@ -51,7 +51,7 @@
   <summary><b>🏆 Trophies</b></summary>
 
   <br />
-  ![](https://github-profile-trophy.vercel.app/?username=junior-slv&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+ <img src="(https://github-profile-trophy.vercel.app/?username=p1neiros&theme=radical&no-frame=true&no-bg=false&margin-w=4)" alt="p1nheiros" /></a>
 </details>
 
 <br/>
