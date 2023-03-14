@@ -51,7 +51,7 @@
   <summary><b>🏆 Trophies</b></summary>
 
   <br />
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=p1nheiros'/>
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=p1nheiros" />
 </details>
 
 <br/>
