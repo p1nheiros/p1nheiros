@@ -4,7 +4,7 @@
 > - 🎓 &nbsp; Estudando **Engenharia de Software** na <a href="https://unifil.br/">UNIFIL</a>.
 > - 🌱 &nbsp; Aprendendo mais sobre **Lógica, Gerenciamento de Projetos, Dev Apps e Programação**.
 
-# 🌐&nbsp;Socials
+## 🌐&nbsp;Socials
   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-p-5b1585265)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.fernandes@edu.unifil.br)
@@ -13,18 +13,18 @@
 
 
 
-## 💻 Programming Languages
+### 💻 Programming Languages
 
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"></code>
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></code>
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"></code>
 
-## 🦾 DevOps
+### 🦾 DevOps
 
   <code><img height="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"></code>
   
-## 👨‍💻 Ferramentas Dev
+### 👨‍💻 Ferramentas Dev
 
   <code><img height="31" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"></code>
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"></code>
@@ -32,7 +32,7 @@
 
 <br/>
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <details>	
   <summary><b>⚡ Stats</b></summary>
@@ -58,7 +58,7 @@
 
 <br/>
 
-# 🎵 Music Channel
+## 🎵 Music Channel
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pinheiross)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/3YW8uyBdplS6ZKxTi3Vt6z?si=lZM9XgO9R4uxWoLo_LOVfw&nd=1)
