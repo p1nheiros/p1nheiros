@@ -13,18 +13,18 @@
 
 
 
-### 💻 Programming Languages
+# 💻 Programming Languages
 
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"></code>
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></code>
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"></code>
 
-### 🦾 DevOps
+# 🦾 DevOps
 
   <code><img height="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"></code>
   
-### 👨‍💻 Ferramentas Dev
+# 👨‍💻 Ferramentas Dev
 
   <code><img height="31" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"></code>
   <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"></code>
