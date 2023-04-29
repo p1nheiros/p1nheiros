@@ -26,9 +26,8 @@
   
 ### 👨‍💻 Dev Tools
 
-  <code><img height="31" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png"></code>
-  <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"></code>
   <code><img height="31" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></code>
+  <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"></code>
 
 <br/>
 
