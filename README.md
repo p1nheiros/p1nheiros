@@ -3,6 +3,7 @@
 > - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 > - 🎓 &nbsp; Studying **Software Engineering** at <a href="https://unifil.br/">UNIFIL</a> in BRAZIL.
 > - 🌱 &nbsp; Learning more about **Logic, Project Management, Application Development and Programming**.
+> - 📫 How to reach me pinheiros.dev@gmail.com
 
 ## 🌐&nbsp;Socials
   
