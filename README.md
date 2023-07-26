@@ -2,9 +2,9 @@
 
 ### ```{'Pinheiros Dev'}```
 
-> - 🎯 &nbsp;Frontend & React Developer
-> - 🎓 &nbsp;Studying **Software Engineering** at <a href="https://unifil.br/">UNIFIL</a>
-> - 📫 &nbsp;How to reach me pinheiros.dev@gmail.com
+> -  🎯 &nbsp;Frontend & React Developer
+> -  🎓 &nbsp;Studying **Software Engineering** at <a href="https://unifil.br/">UNIFIL</a>
+> -  📫 &nbsp;How to reach me pinheiros.dev@gmail.com
 
   <br />
 
@@ -61,7 +61,3 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p1nheiros&theme=discord" alt="p1nheiros" /></a> 
 </details>
 </details>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=p1nheiros&icon=1&color=8)](https://visitcount.itsvg.in)
