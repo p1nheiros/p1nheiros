@@ -1,38 +1,43 @@
-## 🧑🏻&nbsp;About me
+## 👋🏻 Hi, I'm ***Lucas Pinheiro***
 
-> - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-> - 🎓 &nbsp; Studying **Software Engineering** at <a href="https://unifil.br/">UNIFIL</a> in BRAZIL.
-> - 🌱 &nbsp; Learning more about **Logic, Project Management, Application Development and Programming**.
-> - 📫 &nbsp; How to reach me pinheiros.dev@gmail.com
+### ```{'Pinheiros Dev'}```
 
-## 🌐&nbsp;Socials
-  
+> - 🎯 &nbsp;Frontend & React Developer
+> - 🎓 &nbsp;Studying **Software Engineering** at <a href="https://unifil.br/">UNIFIL</a>
+> - 📫 &nbsp;How to reach me pinheiros.dev@gmail.com
+
+  <br />
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-p-5b1585265)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.fernandes@edu.unifil.br)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@PinheirosDev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p1nheiros/)
 
-
-
+<details>	
+  <summary><h2>🛠️ Skills</h2></summary>
 
 ### 💻 Programming Languages
 
-  <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732212.png"></code>
-  <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></code>
-  <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"></code>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🦾 DevOps
 
-  <code><img height="30" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
-  <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"></code>
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   
-### 👨‍💻 Dev Tools
+### 👨‍💻 DevTools
 
-  <code><img height="31" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></code>
-  <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"></code>
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+  
+</details>	
 
-<br/>
-
-## 📊 GitHub Stats
+<details>	
+  <summary><h2>📊 GitHub Stats</h2></summary>
+  <br />
 
 <details>	
   <summary><b>⚡ Stats</b></summary>
@@ -55,15 +60,8 @@
   <br />
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p1nheiros&theme=discord" alt="p1nheiros" /></a> 
 </details>
+</details>
 
-<br/>
-
-## 🎵 Music Channel
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pinheiross)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/3YW8uyBdplS6ZKxTi3Vt6z?si=lZM9XgO9R4uxWoLo_LOVfw&nd=1)
-[![Deezer](https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white)](https://deezer.page.link/KsatPt13niZwDTJf7)
-[![AppleMusic](https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white)](https://music.apple.com/fi/artist/pinheiro%24/1624647277)
-[![YouTubeMusic](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/channel/UCXc1UIn2awhQSIB0xIDeu-g)<br>
 ---
+
 [![](https://visitcount.itsvg.in/api?id=p1nheiros&icon=1&color=8)](https://visitcount.itsvg.in)
