@@ -2,7 +2,7 @@
 
 ### ```{'Pinheiros Dev'}```
 
-> -  🎯 &nbsp;Frontend & React Developer
+> -  🎯 &nbsp;Full Stack Developer
 > -  🎓 &nbsp;Studying **Software Engineering** at <a href="https://unifil.br/">UNIFIL</a>
 > -  📫 &nbsp;How to reach me pinheiros.dev@gmail.com
 
